@@ -1,0 +1,1 @@
+hello there this is the directory for the intels AImanufacturing course
